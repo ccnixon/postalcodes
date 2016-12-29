@@ -24,6 +24,8 @@ The default arguments are M4W2L4 and 3 respectively. Running postalcodes without
 
 `$ postalcodes -p=M4W2L4 -r=3`
 
+The output of the program will be a csv file called 'results.csv'
+
 Run `$ postalcodes -h` for help.
 
 ### Data Source
